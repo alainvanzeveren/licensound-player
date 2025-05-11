@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Sidebar from "./Sidebar";
 import TrackList from "./TrackList";
 import PlayerControls from "./PlayerControls";
-import useTracks from "./hooks/useTracks";
 import categories from "./data/categories";
 
 function LicensongLayout() {
